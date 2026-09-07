@@ -18,5 +18,5 @@ The source uses Unity APIs and editor-only APIs, including:
 
 -   UnityEngine
 -   UnityEditor
--   Unity UI Toolkit / Graph Toolkit APIs
--   Unity Visual Scripting APIs  (Graph View)
+-   Unity UI Toolkit
+-   Graph Toolkit APIs  (Graph View)
