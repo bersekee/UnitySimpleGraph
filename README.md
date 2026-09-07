@@ -1,5 +1,7 @@
 # NodeGraph
 
+<img width="1700" height="916" alt="Capture" src="https://github.com/user-attachments/assets/c5e0f984-6641-48db-9636-dc243ee3a7be" />
+
 A Unity-based node graph framework for creating, editing, compiling, and
 executing graph-driven logic.
 
